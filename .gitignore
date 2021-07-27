@@ -1,0 +1,16 @@
+.idea/
+.env/
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+*.pth
+*.pt
+cifar100
+web-aircraft
+web-bird
+web-car
+Datasets/
+Results/
+analysis/
